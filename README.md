@@ -1,1 +1,2 @@
-# Stock-Price-Prediction-using-LSTM
+# Stock-Price-Prediction-using-
+This project leverages machine learning and deep learning to predict stock price trends using historical data. It employs a Recurrent Neural Network (RNN) with LSTM layers for time-series forecasting, capturing patterns in stock price movements. The model is trained on real-world stock market data fetched via yfinance, preprocessed using MinMaxScaler, and optimized with hyperparameter tuning.
